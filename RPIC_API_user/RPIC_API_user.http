@@ -1,0 +1,6 @@
+@RPIC_API_user_HostAddress = http://localhost:5028
+
+GET {{RPIC_API_user_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
