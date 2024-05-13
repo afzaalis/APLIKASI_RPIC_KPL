@@ -1,0 +1,14 @@
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\bin\Debug\net8.0\RPIC_ManajemenReservasiPC.exe
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\bin\Debug\net8.0\RPIC_ManajemenReservasiPC.deps.json
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\bin\Debug\net8.0\RPIC_ManajemenReservasiPC.runtimeconfig.json
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\bin\Debug\net8.0\RPIC_ManajemenReservasiPC.dll
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\bin\Debug\net8.0\RPIC_ManajemenReservasiPC.pdb
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.AssemblyInfoInputs.cache
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.AssemblyInfo.cs
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.csproj.CoreCompileInputs.cache
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.dll
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\refint\RPIC_ManajemenReservasiPC.dll
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.pdb
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\RPIC_ManajemenReservasiPC.genruntimeconfig.cache
+D:\codingan\APLIKASI_RPIC_KPL-afzaalisnaufal\RPIC_ManajemenReservasiPC\obj\Debug\net8.0\ref\RPIC_ManajemenReservasiPC.dll
