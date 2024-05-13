@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUmOxruab0a+gax12azz7lHpJtYB3vqGpfEbJLyDSEs6aOjagx2XyFB6Cxc88Toum+ZlFdT2jvQivKloA/Kziw==",
+  "success": true,
+  "projectFilePath": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\Tubes\\APLIKASI_RPIC_KPL-AthallahMohammadAbdulAziz\\APLIKASI_RPIC_KPL-AthallahMohammadAbdulAziz\\ManajementReservasiPC_API\\ManajementReservasiPC_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SALMAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

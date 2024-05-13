@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RPIC_ManajemenReservasiPC/1.0.0": {
+        "runtime": {
+          "RPIC_ManajemenReservasiPC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPIC_ManajemenReservasiPC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

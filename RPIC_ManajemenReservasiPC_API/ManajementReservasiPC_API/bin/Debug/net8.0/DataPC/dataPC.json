@@ -1,0 +1,16 @@
+{
+  "PCConfigurations": [
+    {
+      "Number": 1,
+      "Specification": "Specs1"
+    },
+    {
+      "Number": 2,
+      "Specification": "Specs2"
+    },
+    {
+      "Number": 3,
+      "Specification": "Specs3"
+    }
+  ]
+}
