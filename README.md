@@ -8,7 +8,8 @@ Kontruksi Perangkat lunak Aplikasi Reservasi PC internet cafe
 <p>SALMAN HAMALA RIZKY (1302220122)</p>
 
 # Fitur Aplikasi:
-<p>-Registrasi dan login
-<p>-Manajemen reservasi
-<p>-Transaksi
+1. afzaal userManager (generics,API,GUI) : ✅
+2. atha manageReservasi (Automata,TDC,GUI) : ✅
+3. rizki pelangganReservasi (code reuse,Generics,GUI) : ✅
+4. salman API reservasi(API,runtime config):✅
 
