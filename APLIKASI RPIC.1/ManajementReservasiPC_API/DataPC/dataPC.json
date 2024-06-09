@@ -1,0 +1,26 @@
+{
+  "PCConfigurations": [
+    {
+      "Number": 1,
+      "Specification": "Specs1",
+      "IsReserved": false
+    },
+    {
+      "Number": 2,
+      "Specification": "Specs2",
+      "IsReserved": false
+    },
+    {
+      "Number": 3,
+      "Specification": "Specs3",
+      "IsReserved": false
+    }
+  ],
+  "Reservations": [
+    {
+      "PCNumber": 1,
+      "StartTime": "2023-06-10T14:00:00",
+      "EndTime": "2023-06-10T16:00:00"
+    }
+  ]
+}

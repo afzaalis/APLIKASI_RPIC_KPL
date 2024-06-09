@@ -1,0 +1,37 @@
+[
+  {
+    "Username": "user1",
+    "Password": "password1",
+    "Role": "admin"
+  },
+  {
+    "Username": "afzaal123",
+    "Password": "321afz",
+    "Role": "admin"
+  },
+  {
+    "Username": "sd",
+    "Password": "afs",
+    "Role": "Pelanggan"
+  },
+  {
+    "Username": "manusia",
+    "Password": "123",
+    "Role": "Pelanggan"
+  },
+  {
+    "Username": "atyan",
+    "Password": "123aty",
+    "Role": "Pelanggan"
+  },
+  {
+    "Username": "nigga",
+    "Password": "123abc",
+    "Role": "Pelanggan"
+  },
+  {
+    "Username": "afz",
+    "Password": "123",
+    "Role": "Pelanggan"
+  }
+]
